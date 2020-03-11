@@ -7,7 +7,7 @@ const app = express();
 const bodyParser = require('body-parser')
 
 
-var open = true;
+var open = false;
 var region = "usa";
 
 
