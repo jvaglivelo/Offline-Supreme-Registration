@@ -1,5 +1,5 @@
 # Offline Supreme Registration Form
-###### Host your own copy of Supreme's registration form (for testing purposes)
+###### Host your own "live" copy of Supreme's registration form (for testing purposes)
 
 ---
 
