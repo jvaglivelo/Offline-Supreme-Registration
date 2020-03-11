@@ -17,11 +17,15 @@
 * To change the region open server.js and on line 11 change "usa" to either ```"usa"```, ```"paris"```, or ```"london"```.
 * To turn the form off change open (line 10) to false
 
+## Support
+* Create an issue on GitHub
+* Message me on Discord ```jvaglivelo#9592```
+
 ## Example
 
 [https://sup-dummy.glitch.me](https://sup-dummy.glitch.me)
 
-# License
+## License
 
 Copyright 2020 Jordan Vaglivelo
 
