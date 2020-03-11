@@ -21,15 +21,15 @@
 * Create an issue on GitHub
 * Message me on Discord @ ```jvaglivelo#9592```
 
-## Example
+## Examples
 
-[https://sup-dummy-off.glitch.me](https://sup-dummy-off.glitch.me) : Offline
+[Offline Copy](https://sup-dummy-off.glitch.me)
 
-[https://sup-dummy.glitch.me](https://sup-dummy.glitch.me) : USA Form
+[USA Form](https://sup-dummy.glitch.me)
 
-[https://sup-dummy-paris.glitch.me](https://sup-dummy-paris.glitch.me) : Paris Form
+[Paris Form](https://sup-dummy-paris.glitch.me)
 
-[https://sup-dummy-london.glitch.me](https://sup-dummy-london.glitch.me) : London Form
+[London Form](https://sup-dummy-london.glitch.me)
 
 
 ## License
