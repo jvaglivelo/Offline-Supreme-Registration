@@ -19,11 +19,18 @@
 
 ## Support
 * Create an issue on GitHub
-* Message me on Discord ```jvaglivelo#9592```
+* Message me on Discord @ ```jvaglivelo#9592```
 
 ## Example
 
-[https://sup-dummy.glitch.me](https://sup-dummy.glitch.me)
+[https://sup-dummy-off.glitch.me](https://sup-dummy-off.glitch.me) : Offline
+
+[https://sup-dummy.glitch.me](https://sup-dummy.glitch.me) : USA Form
+
+[https://sup-dummy-paris.glitch.me](https://sup-dummy-paris.glitch.me) : Paris Form
+
+[https://sup-dummy-london.glitch.me](https://sup-dummy-london.glitch.me) : London Form
+
 
 ## License
 
